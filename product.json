@@ -47,6 +47,18 @@
                 "id": 6,
                 "category": "Detergen"
             }
+        },
+        {
+            "id": 5,
+            "product_kode": "0005",
+            "product_name": "Rinso",
+            "product_thumbnail": "https://images.unsplash.com/photo-1624372635282-b324bcdd4907?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            "price": 2000,
+            "stock": 5,
+            "category": {
+                "id": 6,
+                "category": "Detergen"
+            }
         }
     ]
 }

@@ -1,0 +1,25 @@
+{
+  "user": [
+        {
+            "id": 1,
+            "name": "Siyam",
+            "email": "siyamp@gmail.com",
+            "password": 123,
+            "role": "owner"
+        },
+        {
+            "id": 2,
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "password": 123,
+            "role": "admin"
+        },
+        {
+            "id": 3,
+            "name": "Jefri Night",
+            "email": "jnwow@gmail.com",
+            "password": 123,
+            "role": "user"
+        }
+    ],
+}

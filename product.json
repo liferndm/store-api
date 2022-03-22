@@ -1,0 +1,52 @@
+{
+  "product": [
+        {
+            "id": 1,
+            "product_kode": "0001",
+            "product_name": "Shinzui Batang",
+            "product_thumbnail": "https://images.unsplash.com/photo-1618840152526-92682643af2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+            "price": 4000,
+            "stock": 5,
+            "category": {
+                "id": 2,
+                "category": "Sabun"
+            }
+        },
+        {
+            "id": 2,
+            "product_kode": "0002",
+            "product_name": "Top Coffee",
+            "product_thumbnail": "https://images.unsplash.com/photo-1495774856032-8b90bbb32b32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "price": 1000,
+            "stock": 10,
+            "category": {
+                "id": 5,
+                "category": "Kopi"
+            }
+        },
+        {
+            "id": 3,
+            "product_kode": "0003",
+            "product_name": "Roma Kelapa",
+            "product_thumbnail": "https://images.unsplash.com/photo-1557310717-d6bea9f36682?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "price": 4000,
+            "stock": 5,
+            "category": {
+                "id": 4,
+                "category": "Roti"
+            }
+        },
+        {
+            "id": 4,
+            "product_kode": "0004",
+            "product_name": "Rinso Cair",
+            "product_thumbnail": "https://images.unsplash.com/photo-1624372635282-b324bcdd4907?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            "price": 1000,
+            "stock": 5,
+            "category": {
+                "id": 6,
+                "category": "Detergen"
+            }
+        }
+    ]
+}

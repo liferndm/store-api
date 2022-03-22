@@ -1,0 +1,15 @@
+{
+  "user_address": [
+        {
+            "id": 1,
+            "address": "Jl. Kaliurang Kelurahan Sinduro Ponorogo",
+            "user": {
+                "id": 3,
+                "name": "Jefri Night",
+                "email": "jnwow@gmail.com",
+                "password": 123,
+                "role": "user"
+            }
+        }
+    ],
+}

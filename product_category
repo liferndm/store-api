@@ -1,0 +1,28 @@
+{
+  "product_category": [
+        {
+            "id": 1,
+            "category": "Shampo"
+        },
+        {
+            "id": 2,
+            "category": "Sabun"
+        },
+        {
+            "id": 3,
+            "category": "Minyak"
+        },
+        {
+            "id": 4,
+            "category": "Roti"
+        },
+        {
+            "id": 5,
+            "category": "Kopi"
+        },
+        {
+            "id": 6,
+            "category": "Detergen"
+        }
+    ],
+}
